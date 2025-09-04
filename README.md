@@ -1,4 +1,4 @@
-# ClassBookings Backend API
+# ClassBookings Backend 
 
 A FastAPI-based backend for class booking system with PostgreSQL database and Alembic migrations.
 
